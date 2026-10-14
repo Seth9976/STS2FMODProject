@@ -1,0 +1,6 @@
+STS2_Menu_v3_Intro_4.wav
+STS2_Menu_v3_Intro_2.wav
+STS2_Menu_v3_Intro_1.wav
+STS2_Menu_v3_Body.wav
+STS2_Menu_2_timeline_crossfade_amb.wav
+STS2_Menu_v3_Intro_3.wav

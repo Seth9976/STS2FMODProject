@@ -1,0 +1,3 @@
+STS_DeathStinger_v4_SFX.wav
+STS_DeathStinger_1_v3_MUSIC.wav
+STS_MenuTheme_NewMix_v1.wav
